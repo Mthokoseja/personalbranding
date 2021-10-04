@@ -40,6 +40,11 @@ a:hover,
 a:focus{
 	color: #2F937B;
 	text-decoration: none;
+	background-color: transparent;
+        text-decoration: underline;
+	
+
+	
 }
 
 .clearfix:after {
